@@ -16,6 +16,3 @@ This model uses BrainJS to train the Neural Network for the dataset of the Cryot
 
 ![](https://raw.githubusercontent.com/iSumitBanik/Cryotherapy-Success-Rate/master/src/img/demo.png)
 
-#### Social Media
-
-Follow me on [Twitter](https://twitter.com/TheSumitBanik) ✔
